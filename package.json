@@ -1,0 +1,23 @@
+{
+  "name": "csak-gensync",
+  "version": "0.1.0",
+  "description": "es6 generator async",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csakaszamok/csak-gensync.git"
+  },
+  "keywords": [
+    "generator",
+    "async"
+  ],
+  "author": "csakaszamok@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csakaszamok/csak-gensync/issues"
+  },
+  "homepage": "https://github.com/csakaszamok/csak-gensync#readme"
+}
